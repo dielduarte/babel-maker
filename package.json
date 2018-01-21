@@ -17,6 +17,9 @@
   "files": [
     "lib/"
   ],
+  "bin": {
+    "babel-maker": "lib/index.js"
+  },
   "author": "Diel Duarte",
   "license": "MIT",
   "dependencies": {
