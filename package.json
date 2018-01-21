@@ -1,6 +1,6 @@
 {
   "name": "babel-maker",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A cli to create initial babel configuration in a easy way",
   "main": "lib/index.js",
   "scripts": {
@@ -13,7 +13,11 @@
     "type": "git",
     "url": "git@github.com:dielduarte/babel-maker.git"
   },
-  "keywords": ["babel", "babel-maker", "automatic-babel"],
+  "keywords": [
+    "babel",
+    "babel-maker",
+    "automatic-babel"
+  ],
   "files": [
     "lib/"
   ],
